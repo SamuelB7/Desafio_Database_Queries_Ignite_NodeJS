@@ -1,0 +1,8 @@
+Fulano: 7dc52f85-0ef8-41e7-900e-393dca950fa0
+Siclano: d638b5aa-fcbb-4a4c-b8e6-383e67b35bd8
+Beltrano: 101c02a7-e747-49fd-b4f2-f169893f90fa
+
+-------------------------------
+COD: bc7c1163-8324-42e5-a5cd-df7160e438f0
+BF1: 6df08218-0cf1-4c4f-bf6c-8a10fbeedd90
+DOOM: f88b08dc-faa6-4318-986d-ef08ce5ab0fb
