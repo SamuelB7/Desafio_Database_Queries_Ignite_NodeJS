@@ -7,7 +7,6 @@ import { FindUserWithGamesByIdUseCase } from "./FindUserWithGamesByIdUseCase";
 class FindUserWithGamesByIdController {
   async handle(request: Request, response: Response): Promise<Response> {
     const  user_id  = request.params.id
-    console.log(user_id)
 
     const findUserWithGamesByIdUseCase = container.resolve(FindUserWithGamesByIdUseCase)
 
